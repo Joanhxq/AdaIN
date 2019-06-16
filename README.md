@@ -98,4 +98,4 @@ python test.py --content input/content/avril.jpg --style input/style/antimonocro
 
 <img src="output/newyork_stylized_by_brushstrokes.png", "width=300px", height="300px">
 
-<figture>
+</figture>
