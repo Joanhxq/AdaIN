@@ -94,8 +94,8 @@ python test.py --content input/content/avril.jpg --style input/style/antimonocro
 
 <img src="output\brad_pitt_stylized_by_sketch.png" width="300px" height="300px">
 
-<img src="output\avril_stylized_by_trial.png" "width=300px" height="300px">
+<img src="output\avril_stylized_by_trial.png" width="484px" height="300px">
 
-<img src="output\newyork_stylized_by_brushstrokes.png" "width=300px" height="300px">
+<img src="output\newyork_stylized_by_brushstrokes.png" width="484px" height="300px">
 
 </figure>
